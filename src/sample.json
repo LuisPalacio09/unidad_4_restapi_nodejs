@@ -1,0 +1,16 @@
+[
+    {
+        "id": "1",
+        "nombre": "Saul",
+        "dni": "1143386598",
+        "direccion": "Providencia",
+        "telefono": "3107267443"
+    },
+    {
+        "id": "2",
+        "nombre": "Luis",
+        "dni": "1143386500",
+        "direccion": "Las palmeras",
+        "telefono": "3107267445"
+    }
+]
